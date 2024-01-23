@@ -1,0 +1,1 @@
+Esse repositorio é referente ao primeiro exercicio, da cubos academy, portanto atualmente ele só fala "hello world"
